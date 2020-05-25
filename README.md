@@ -1,1 +1,3 @@
-# addition-using-class-in-C-
+# addition-using-class-in-C++
+
+concept of Summision in c++ with class using private access in member object........
